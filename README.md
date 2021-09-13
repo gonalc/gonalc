@@ -3,12 +3,12 @@
 I have been working in the tech world since 2017. Apart from coding, I love photography 📸  and football ⚽.
 
 ## Mirror Studio
-For the last year I have been working on my own projects with my teammate Adri. [Check our website!](https://www.mirror.studio)
+I have been working on my own projects with my teammate Adri. [Check our website!](https://www.mirror.studio)
 
 ### 🌱 I’m currently learning (or interested in):
 * Rust
 * GraphQL
-* Hapi
+* Solidity
 * NextJS
 
 ### 📫 How to reach me:
