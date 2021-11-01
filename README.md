@@ -4,16 +4,18 @@ I have been working in the tech world since 2017. Apart from coding, I love phot
 
 ## My tech stack
 
-* ReactJS
-* React Native
-* JavaScript
-* TypeScript
-* MongoDB
-* MySQL
-* NodeJS
-* Express
-* Angular
-* VueJS
+| Tech | Level |
+| ---- | ----- |
+| ReactJS | Medium-High |
+| React Native | Medium-High |
+| JavaScript | Medium-High |
+| TypeScript | Medium-Basic |
+| Mongo | Medium |
+| MySQL | Medium-Basic |
+| NodeJS | Medium |
+| Express | Medium |
+| Angular | Medium-Basic |
+| VueJS | Basic |
 
 ## Mirror Studio
 
