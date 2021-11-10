@@ -6,16 +6,16 @@ I have been working in the tech world since 2017. Apart from coding, I love phot
 
 | Tech | Level |
 | ---- | ----- |
-| ReactJS | Medium-High |
-| React Native | Medium-High |
-| JavaScript | Medium-High |
-| TypeScript | Medium-Basic |
-| Mongo | Medium |
-| MySQL | Medium-Basic |
-| NodeJS | Medium |
-| Express | Medium |
-| Angular | Medium-Basic |
-| VueJS | Basic |
+| ReactJS | ⭐⭐⭐⭐ |
+| React Native | ⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐ |
+| TypeScript | ⭐⭐ |
+| Mongo | ⭐⭐⭐ |
+| MySQL | ⭐⭐ |
+| NodeJS | ⭐⭐⭐ |
+| Express | ⭐⭐⭐ |
+| Angular | ⭐⭐ |
+| VueJS | ⭐⭐ |
 
 ## Mirror Studio
 
