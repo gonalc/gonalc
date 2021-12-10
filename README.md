@@ -16,6 +16,7 @@ I have been working in the tech world since 2017. Apart from coding, I love phot
 | Express | ⭐⭐⭐ |
 | Angular | ⭐⭐ |
 | VueJS | ⭐⭐ |
+| Solidity | ⭐⭐ |
 
 ## Mirror Studio
 
