@@ -32,7 +32,7 @@ I have been working on my own projects with my teammate Adri. [Check our website
 ### 📫 How to reach me:
 
 You can basically find me through my [LinkedIn profile](https://www.linkedin.com/in/gonzalo-alcaide/).
-Or by email: [gonzaloalcaide@mirror.studio](mailto:gonzaloalcaide@mirror.studio).
+Or by email: [gonalc8@gmail.com](mailto:gonalc8@gmail.com).
 
 
 <!--
