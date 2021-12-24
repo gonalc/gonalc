@@ -2,9 +2,9 @@
 
 I have been working in the tech world since 2017. Apart from coding, I love photography 📸  and football ⚽.
 
-<a href="#suhailkakar-title">
+<!-- <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=gonalc&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Gonzalo Alcaide" align="center" />
-</a>
+</a> -->
 
 
 ## Favorite tech
