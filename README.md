@@ -7,7 +7,7 @@ I have been working in the tech world since 2017. Apart from coding, I love phot
 </a> -->
 
 
-## Favorite tech
+## 💻 Favorite tech
 
 > Tools, languages, and other things that I like to work with.
 
@@ -32,7 +32,7 @@ I have been working in the tech world since 2017. Apart from coding, I love phot
                 <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48"
                     alt="React" />
             </a>
-            <br>React JS
+            <br>React JS/Native
         </td>
         <td align="center" width="96">
             <a href="#gonalc-tech">
@@ -80,15 +80,42 @@ I have been working in the tech world since 2017. Apart from coding, I love phot
             </a>
             <br>Redux
         </td>
+        <td align="center" width="96">
+            <a href="#gonalc-tech">
+                <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="" height="48" alt="Redux" />
+            </a>
+            <br>MySQL
+        </td>
     </tr>
 </table>
 
 ### 🌱 I’m currently learning (or interested in):
 
-* Rust
-* GraphQL
-* Solidity
-* NextJS
+<table align="center">
+    <tr>
+        <td align="center" width="96">
+            <a href="#gonalc-tech">
+                <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
+                    width="48" height="48" alt="Rust" />
+            </a>
+            <br>Rust
+        </td>
+        <td align="center" width="96">
+            <a href="#gonalc-tech">
+                <img src="https://graphql.org/img/logo.svg" width="45" height="45"
+                    alt="GraphQL" />
+            </a>
+            <br>GraphQL
+        </td>
+        <td align="center" width="96">
+            <a href="#gonalc-tech">
+                <img src="https://solidity-es.readthedocs.io/es/latest/_images/logo.svg"
+                    width="48" height="48" alt="Solidity" />
+            </a>
+            <br>Solidity
+        </td>
+    </tr>
+</table>
 
 ### 📫 How to reach me:
 
